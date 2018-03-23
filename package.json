@@ -1,0 +1,19 @@
+{
+  "name": "airplane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnenov89/Airplane.git"
+  },
+  "author": "gnenov89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnenov89/Airplane/issues"
+  },
+  "homepage": "https://github.com/gnenov89/Airplane#readme"
+}
