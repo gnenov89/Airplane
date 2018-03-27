@@ -1,8 +1,8 @@
 {
-  "name": "airplane",
+  "name": "Airplane",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/gnenov89/Airplane.git"
   },
-  "author": "gnenov89",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gnenov89/Airplane/issues"
   },
-  "homepage": "https://github.com/gnenov89/Airplane#readme"
+  "homepage": "https://github.com/gnenov89/Airplane#readme",
+  "devDependencies": {
+    "webpack": "^4.3.0",
+    "webpack-cli": "^2.0.13"
+  }
 }
